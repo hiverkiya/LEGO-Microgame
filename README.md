@@ -22,8 +22,8 @@ https://user-images.githubusercontent.com/34170205/194398845-2b4511f4-efe6-4077-
     
 ## Features
 - Custom enemies are in the game with modifications to projectile velocity, player tracking, and shot accuracy
-- Player configuration has been changed to enhance forward velocity, acceleration, and model design with Camera focus
-- Customize the atmosphere of your Microgame with visual and audio changes.
+- Player configuration has been changed to enhance forward velocity, acceleration, and model design with accurate camera focus
+- Customized the atmosphere of Microgame with visual and audio changes.
 - Menu screens are customized to feature sticker assets, and menu options have been changed.
 - Finally changed the build configuration to feature a Fullscreen view with a custom icon and splash art
 
