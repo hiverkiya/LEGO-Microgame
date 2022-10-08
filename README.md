@@ -1,7 +1,7 @@
 # LEGO Microgame
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-<p align="center">Start your Unity journey in the world of LEGO® <b>(TURN ON VOLUME)</b></p>
+<p align="center">Start your Unity journey in the world of LEGO® <b>(TURN ON THE VOLUME)</b></p>
 
 
 
@@ -30,4 +30,4 @@ https://user-images.githubusercontent.com/34170205/194398845-2b4511f4-efe6-4077-
 ## Play
 Go to the **mods** folder to access the updated build and have fun completing the challenge roaming around the in-game overworld.
 
-[![GitHub license](https://img.shields.io/github/license/Verkiya/Let-Us-C-Solutions.svg?style=for-the-badge)](https://github.com/hiverkiya/Medium/blob/main/LICENSE)
+[![GitHub license](https://raw.githubusercontent.com/hiverkiya/LEGO-Microgame/main/license.svg)](https://github.com/hiverkiya/LEGO-Microgame/blob/main/LICENSE)
