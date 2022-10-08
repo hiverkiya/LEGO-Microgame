@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/34170205/194400650-0f868350-c508-482f-
 
 
 <hr/>
-<p align="center"> Sneakpeak to enemy creation </p>
+<p align="center"> Sneakpeek to enemy creation </p>
 <hr/>
 
 https://user-images.githubusercontent.com/34170205/194398845-2b4511f4-efe6-4077-a5d4-d444adf7ea8b.mp4
