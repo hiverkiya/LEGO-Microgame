@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/34170205/194398845-2b4511f4-efe6-4077-
 - Menu screens are customized to feature sticker assets, and menu options have been changed.
 - Finally changed the build configuration to feature a Fullscreen view with a custom icon and splash art
 
-## Play
+## Play the game
 Go to the **mods** folder to access the updated build and have fun completing the challenge roaming around the in-game overworld.
 
 [![GitHub license](https://raw.githubusercontent.com/hiverkiya/LEGO-Microgame/main/license.svg)](https://github.com/hiverkiya/LEGO-Microgame/blob/main/LICENSE)
